@@ -14,7 +14,7 @@ thymeleaf
 2022.02.15 thymeleaf 학습 및 springboot 라이브러리 학습
 ```
 
-###공식문서
+### 공식문서
 
 
 스프링 : [https://docs.spring.io/spring-boot/docs/current/reference/html/web.html#web](https://docs.spring.io/spring-boot/docs/current/reference/html/web.html#web) 
