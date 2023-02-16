@@ -28,9 +28,6 @@ thymeleaf
 - 데이터 : 회원ID , 이름
 - 기능 : 회원 등록 , 조회
 - 아직 데이터 저장소가 선정되지 않음(가상의 시나리오)
+
 ###공식문서
-
-
-````
 스프링 : [https://docs.spring.io/spring-boot/docs/current/reference/html/web.html#web](https://docs.spring.io/spring-boot/docs/current/reference/html/web.html#web) 
-````
